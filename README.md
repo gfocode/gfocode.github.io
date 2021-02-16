@@ -1,2 +1,2 @@
 # gfocode.github.io
-Website LMAO
+Website for GFO
