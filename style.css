@@ -69,3 +69,7 @@ color: white;}
   background-color: rgb(28, 27, 46);
   color: white;
 }
+
+hr.solid {
+  border-top: 8px solid rgb(194, 13, 88);
+}
